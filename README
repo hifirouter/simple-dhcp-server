@@ -1,0 +1,9 @@
+Features:
+
+1. Only for Linux
+
+2. Can allocate IP, no dhcp relay
+
+3. Can customize the IP allocator(in ip_allocator.c)
+
+4. Current IP are record in sqlite file, you need provide the mac-ip pair in the db file.
